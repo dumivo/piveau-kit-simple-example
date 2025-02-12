@@ -12,8 +12,8 @@ importers:
         specifier: 0.0.0-beta.0
         version: 0.0.0-beta.0
       '@piveau/sdk-vue':
-        specifier: 1.0.0-beta.5
-        version: 1.0.0-beta.5(typescript@5.7.3)(vue-router@4.5.0(vue@3.5.13(typescript@5.7.3)))
+        specifier: 1.0.0-beta.6
+        version: 1.0.0-beta.6(typescript@5.7.3)(vue-router@4.5.0(vue@3.5.13(typescript@5.7.3)))
       vue:
         specifier: ^3.5.13
         version: 3.5.13(typescript@5.7.3)
@@ -443,8 +443,8 @@ packages:
   '@piveau/sdk-core@0.0.0-beta.0':
     resolution: {integrity: sha512-7FgA+YF0akDN65LtgCXzTH2yTNQ14j16zUH9sZeXBWKBRSqw4cv2Rv1c0peIJVooELR+mNtraavVeJyVkjH/jQ==}
 
-  '@piveau/sdk-vue@1.0.0-beta.5':
-    resolution: {integrity: sha512-NvJkYKPYLsktKMAisd294Hvyj7oUdciG2UDdRZSoZVndQT3SeIcsdYOxlXCH1iKB8IzvEaTlYkDqN9S/D/trfQ==}
+  '@piveau/sdk-vue@1.0.0-beta.6':
+    resolution: {integrity: sha512-Uz8tf5/dGxkmIUGBT+YKEm+OHKWx1cqha/ujWCGS2P6PgaKr69OswWIxnbG356bC3keCmkp/lm3Kbnebfb7Dpg==}
     peerDependencies:
       vue-router: '>=4'
     peerDependenciesMeta:
@@ -2039,7 +2039,7 @@ snapshots:
     transitivePeerDependencies:
       - debug
 
-  '@piveau/sdk-vue@1.0.0-beta.5(typescript@5.7.3)(vue-router@4.5.0(vue@3.5.13(typescript@5.7.3)))':
+  '@piveau/sdk-vue@1.0.0-beta.6(typescript@5.7.3)(vue-router@4.5.0(vue@3.5.13(typescript@5.7.3)))':
     dependencies:
       '@piveau/sdk-core': 0.0.0-beta.0
       '@tanstack/vue-query': 5.65.0(vue@3.5.13(typescript@5.7.3))
